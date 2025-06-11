@@ -3,7 +3,7 @@
 
 Anaconda 是 **安装 Jupyter Notebook** 的最佳方式。安装完成之后，启动 Anaconda 的 Navigator，并启动 Notebook，呈现如下界面：
 
-![Notebook 启动界面](images/1.png)
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/a3201436-9c4f-4daa-b0ff-aa7fda4f1275" />
 
 观察页面，可以看到浏览器中显示类似 `https://localhost:8888/tree` 的网址，代表本地运行着 Notebook 的服务器。
 
