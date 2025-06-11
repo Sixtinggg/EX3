@@ -14,7 +14,7 @@ Anaconda 是 **安装 Jupyter Notebook** 的最佳方式。安装完成之后，
 
 新建的 Notebook 的界面大致如下所示：
 
-![Notebook 编辑界面](images/2.png)
+<img width="817" alt="image" src="https://github.com/user-attachments/assets/f20c84ba-96bf-47b8-96cd-471be69ce287" />
 
 这里有两个关键元素：**cell** 和 **kernel**。
 
